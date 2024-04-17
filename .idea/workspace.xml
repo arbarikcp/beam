@@ -5,49 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc153900-a0bd-4b61-a7a4-36299fd4f93a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getting-started-with-stream-processing-slides.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PipelineAndRunnerProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/Aggregation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/EnergyConsumption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/Filtering_v1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/Filtering_v2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/FixedWindow_v1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/FixedWindow_v2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/FixedWindow_v3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/GlobalWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/SessionWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/SlidingWindow_v1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/StockPricePercentageDeltaComputation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/TotalScoreComputationWithPipelineOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/TotalScoreComputation_v1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/TotalScoreComputation_v2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/apache/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/csv_dataset/Apr2020.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/csv_dataset/Feb2020.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/csv_dataset/Jan2020.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/csv_dataset/Jul2020.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/csv_dataset/June2020.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/csv_dataset/Mar2020.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/csv_dataset/May2020.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/source/AEP_hourly.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/source/more_student_scores.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/source/student_scores.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/source/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/streaming_source/Apr2020.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/streaming_source/Feb2020.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/streaming_source/Jan2020.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applying-transformations-to-streaming-data-slides.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/args/AveragePriceProcessing_v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/args/AveragePriceProcessing_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/pardo/Computations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/pardo/ExtractingAndFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/pardo/Filtering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/payment/PaymentTypeProcessing_v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/payment/PaymentTypeProcessing_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/payment/PaymentTypeProcessing_v3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/payment/PaymentTypeProcessing_v4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/payment/PaymentTypeProcessing_v5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/payment/PaymentTypeProcessing_v6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/payment/PaymentTypeProcessing_v7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/schema/SalesRecord_v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/schema/SalesRecord_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/schema/SchemaDefinitionAndProcessing_v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/schema/SchemaDefinitionAndProcessing_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/schema/SchemaDefinitionAndProcessing_v2_fixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/schema/SchemaDefinitionAndProcessing_v3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arb/schema/SchemaDefinitionAndProcessing_v4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/source/SalesJan2009.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/source/car_ads_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/source/car_ads_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/source/car_ads_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/understanding-pipelines-pcollections-and-ptransforms-slides.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +51,27 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Aggregation.executor": "Run",
+    "Application.Computations.executor": "Run",
+    "Application.ExtractingAndFormatting.executor": "Run",
+    "Application.Filtering.executor": "Run",
     "Application.Filtering_v1.executor": "Run",
     "Application.Filtering_v2.executor": "Debug",
     "Application.FixedWindow_v1.executor": "Run",
     "Application.FixedWindow_v2.executor": "Run",
     "Application.FixedWindow_v3.executor": "Debug",
+    "Application.PaymentTypeProcessing_v1.executor": "Run",
+    "Application.PaymentTypeProcessing_v2.executor": "Run",
+    "Application.PaymentTypeProcessing_v3.executor": "Run",
+    "Application.PaymentTypeProcessing_v4.executor": "Run",
+    "Application.PaymentTypeProcessing_v5.executor": "Run",
+    "Application.PaymentTypeProcessing_v6.executor": "Run",
+    "Application.PaymentTypeProcessing_v7.executor": "Run",
     "Application.PipelineAndRunnerProperties.executor": "Run",
+    "Application.SchemaDefinitionAndProcessing_v1.executor": "Run",
+    "Application.SchemaDefinitionAndProcessing_v2.executor": "Run",
+    "Application.SchemaDefinitionAndProcessing_v2_fixed.executor": "Run",
+    "Application.SchemaDefinitionAndProcessing_v3.executor": "Run",
+    "Application.SchemaDefinitionAndProcessing_v4.executor": "Run",
     "Application.StockPricePercentageDeltaComputation.executor": "Run",
     "Application.TotalScoreComputationWithPipelineOptions.executor": "Run",
     "Application.TotalScoreComputation_v1.executor": "Debug",
@@ -85,12 +83,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/bhakti/workspace/beam/src/main"
+    "last_opened_file_path": "/Users/bhakti/workspace/beam/src/main/resources/source"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/resources/source" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/arb/pardo" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/arb/schema" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/arb/args" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/arb/payment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/source" />
@@ -98,14 +100,17 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.arb.schema" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.FixedWindow_v3">
-    <configuration name="FixedWindow_v1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.apache.FixedWindow_v1" />
+  <component name="RunManager" selected="Application.Computations">
+    <configuration name="Computations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arb.pardo.Computations" />
       <module name="beam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pluralsight.apache.*" />
+          <option name="PATTERN" value="com.arb.pardo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixedWindow_v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.apache.FixedWindow_v2" />
+    <configuration name="ExtractingAndFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arb.pardo.ExtractingAndFormatting" />
       <module name="beam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pluralsight.apache.*" />
+          <option name="PATTERN" value="com.arb.pardo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixedWindow_v3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.apache.FixedWindow_v3" />
+    <configuration name="Filtering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arb.pardo.Filtering" />
       <module name="beam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pluralsight.apache.*" />
+          <option name="PATTERN" value="com.arb.pardo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockPricePercentageDeltaComputation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.apache.StockPricePercentageDeltaComputation" />
+    <configuration name="SchemaDefinitionAndProcessing_v3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arb.schema.SchemaDefinitionAndProcessing_v3" />
       <module name="beam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pluralsight.apache.*" />
+          <option name="PATTERN" value="com.arb.schema.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pluralsight.apache.WordCount" />
+    <configuration name="SchemaDefinitionAndProcessing_v4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arb.schema.SchemaDefinitionAndProcessing_v4" />
       <module name="beam" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pluralsight.apache.*" />
+          <option name="PATTERN" value="com.arb.schema.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FixedWindow_v1" />
-      <item itemvalue="Application.FixedWindow_v2" />
-      <item itemvalue="Application.FixedWindow_v3" />
-      <item itemvalue="Application.StockPricePercentageDeltaComputation" />
-      <item itemvalue="Application.WordCount" />
+      <item itemvalue="Application.Computations" />
+      <item itemvalue="Application.ExtractingAndFormatting" />
+      <item itemvalue="Application.Filtering" />
+      <item itemvalue="Application.SchemaDefinitionAndProcessing_v3" />
+      <item itemvalue="Application.SchemaDefinitionAndProcessing_v4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FixedWindow_v3" />
-        <item itemvalue="Application.FixedWindow_v2" />
-        <item itemvalue="Application.FixedWindow_v1" />
-        <item itemvalue="Application.WordCount" />
-        <item itemvalue="Application.StockPricePercentageDeltaComputation" />
+        <item itemvalue="Application.Computations" />
+        <item itemvalue="Application.ExtractingAndFormatting" />
+        <item itemvalue="Application.Filtering" />
+        <item itemvalue="Application.SchemaDefinitionAndProcessing_v4" />
+        <item itemvalue="Application.SchemaDefinitionAndProcessing_v3" />
       </list>
     </recent_temporary>
   </component>
