@@ -24,6 +24,11 @@
       <artifactId>commons-csv</artifactId>
       <version>1.8</version>
     </dependency>
+    <dependency>
+      <groupId>org.apache.beam</groupId>
+      <artifactId>beam-sdks-java-extensions-join-library</artifactId>
+      <version>2.4.0</version>
+    </dependency>
   </dependencies>
 
   <build>
